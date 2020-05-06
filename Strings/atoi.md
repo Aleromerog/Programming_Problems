@@ -26,6 +26,9 @@ Note: There might be multiple corner cases here. Clarify all your doubts using â
 **Warning : DO NOT USE LIBRARY FUNCTION FOR ATOI.
 If you do, we will disqualify your submission retroactively and give you penalty points.**
 
+### **My Solution**
+
+
 ```python
 class Solution:
     # @param A : string
@@ -60,3 +63,4 @@ class Solution:
             return 0
 
 ```
+* Python3.6

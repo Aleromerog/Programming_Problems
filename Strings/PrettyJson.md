@@ -62,7 +62,7 @@ Output 2:
     ]
 ```
 
-### Solution
+### My Solution
 
 ```python
 class Solution:
@@ -103,3 +103,4 @@ class Solution:
         return lines
 
 ```
+* Python3.6

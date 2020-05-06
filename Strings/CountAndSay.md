@@ -20,7 +20,7 @@ the sequence is 11.
 
 ---
 
-### Solution
+### My Solution
 
 ```python
 class Solution:
@@ -54,3 +54,4 @@ class Solution:
         return counter
 
 ```
+* Python3.6

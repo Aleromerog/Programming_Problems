@@ -32,7 +32,7 @@ details about roman numerals at [Roman Numeric System](https://en.wikipedia.org/
 
 ---
 
-### Solution
+### My Solution
 
 ```python
 class Solution:
@@ -50,3 +50,4 @@ class Solution:
         return num
 
 ```
+* Python3.6

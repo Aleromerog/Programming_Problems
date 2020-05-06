@@ -42,7 +42,7 @@ For Example
 
 ---
 
-### Solution
+### My Solution
 
 ```python
 class Solution:
@@ -59,3 +59,4 @@ class Solution:
         return ' '.join(rev)
 
 ```
+* Python3.6

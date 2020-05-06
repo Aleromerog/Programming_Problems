@@ -15,7 +15,8 @@ as `123 + 1 = 124`.
 
 ---
 
-### **Solution**
+### **My Solution**
+
 ```python
 class Solution:
     # @param A : list of integers
@@ -37,3 +38,4 @@ class Solution:
         return A
 
 ```
+* Python3.6

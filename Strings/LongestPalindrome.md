@@ -18,7 +18,7 @@ Example :
     Output : "aaabaaa"
 
 
-### Solution
+### My Solution
 
 ```python
 class Solution:
@@ -52,3 +52,4 @@ class Solution:
         return A[startIndex:startIndex+maxLen]
 
 ```
+* Python3.6
